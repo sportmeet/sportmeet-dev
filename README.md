@@ -1,1 +1,0 @@
-# sportmeet-dev
